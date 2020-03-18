@@ -1,0 +1,53 @@
+Harmonogram zamawiania dla 6 materia³ów dla 17 okresów.
+Wielkoœæ T (czêstoœæ zamówieñ): 2
+
+
+Materia³ 1
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [38, 0, 0, 0, 50, 0, 0, 0, 49, 0, 0, 0, 59, 0, 0, 0, 0]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [38, 23, 20, 13, 50, 32, 17, 3, 49, 35, 32, 15, 59, 56, 42, 30, 12]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [15, 3, 7, 13, 18, 15, 14, 3, 14, 3, 17, 15, 3, 14, 12, 18, 12]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [23, 20, 13, 0, 32, 17, 3, 0, 35, 32, 15, 0, 56, 42, 30, 12, 0]
+
+
+Materia³ 2
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [24, 0, 0, 0, 53, 0, 0, 0, 50, 0, 0, 0, 59, 0, 0, 0, 19]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [24, 16, 13, 8, 53, 34, 28, 13, 50, 33, 19, 16, 59, 42, 31, 18, 19]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [8, 3, 5, 8, 19, 6, 15, 13, 17, 14, 3, 16, 17, 11, 13, 18, 19]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [16, 13, 8, 0, 34, 28, 13, 0, 33, 19, 16, 0, 42, 31, 18, 0, 0]
+
+
+Materia³ 3
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [346, 0, 164, 0, 117, 0, 257, 0, 216, 0, 259, 0, 242, 0, 225, 0, 162]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [346, 153, 164, 45, 117, 73, 257, 61, 216, 114, 259, 73, 242, 91, 225, 105, 162]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [193, 153, 119, 45, 44, 73, 196, 61, 102, 114, 186, 73, 151, 91, 120, 105, 162]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [153, 0, 45, 0, 73, 0, 61, 0, 114, 0, 73, 0, 91, 0, 105, 0, 0]
+
+
+Materia³ 4
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [151, 0, 194, 0, 162, 0, 241, 0, 201, 0, 168, 0, 306, 0, 0, 0, 98]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [151, 48, 194, 80, 162, 132, 241, 116, 201, 149, 168, 120, 306, 183, 127, 102, 98]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [103, 48, 114, 80, 30, 132, 125, 116, 52, 149, 48, 120, 123, 56, 25, 102, 98]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [48, 0, 80, 0, 132, 0, 116, 0, 149, 0, 120, 0, 183, 127, 102, 0, 0]
+
+
+Materia³ 5
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [39, 0, 0, 0, 45, 0, 0, 0, 50, 0, 0, 0, 27, 0, 0, 0, 0]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [39, 36, 27, 13, 45, 26, 15, 14, 50, 46, 29, 10, 27, 16, 6, 3, 2]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [3, 9, 14, 13, 19, 11, 1, 14, 4, 17, 19, 10, 11, 10, 3, 1, 2]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [36, 27, 13, 0, 26, 15, 14, 0, 46, 29, 10, 0, 16, 6, 3, 2, 0]
+
+
+Materia³ 6
+Wielkoœæ zamówienia w kolejnych okresach (rozpoczynaj¹c od okresu 0): [369, 0, 298, 0, 373, 0, 223, 0, 304, 0, 215, 0, 81, 0, 285, 0, 188]
+
+Zapas na pocz¹tku okresu (rozpoczynaj¹c od okresu 1): [369, 192, 298, 148, 373, 194, 223, 32, 304, 126, 215, 86, 81, 63, 285, 154, 188]
+Popyt w danym okresie (rozpoczynaj¹c od okresu 1):    [177, 192, 150, 148, 179, 194, 191, 32, 178, 126, 129, 86, 18, 63, 131, 154, 188]
+Zapas na koniec okresu (rozpoczynaj¹c od okresu 1):   [192, 0, 148, 0, 194, 0, 32, 0, 126, 0, 86, 0, 63, 0, 154, 0, 0]
+
+
+Ca³kowity koszt: 55237
