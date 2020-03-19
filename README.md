@@ -8,6 +8,7 @@ do analizy procesu za pomocą arkusza kalkulacyjnego.
 
 
 ENG:
+
 A project is a program for planning the supply of many goods from one supplier.
 It was created as part of an engineering work.
 
